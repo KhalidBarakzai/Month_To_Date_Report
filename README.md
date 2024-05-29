@@ -1,6 +1,6 @@
 # Month_To_Date_Report
 
-This code generates a month-to-date misloads report based on multiple Word documents in a given folder.
+This code generates a month-to-date misloads report for the UPS Maple Grove, MN Preload operation.
 It calculates the misload counts for each loader in the current month and creates a report with the loader names
 and their corresponding misload counts. The report includes the date of the report and is saved in a specified output folder.
 
