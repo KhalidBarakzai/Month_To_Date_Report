@@ -1,8 +1,6 @@
 # Month_To_Date_Report
 
-This script generates a month-to-date misloads report for the UPS Maple Grove, MN Preload operation.
-It calculates the misload counts for each loader in the current month and creates a report with the loader names
-and their corresponding misload counts and frequency. The report includes the date of the report and is saved in a specified output folder.
+This script generates a month-to-date misload report for the UPS Maple Grove, MN Preload operation. It calculates the misload count for each loader for the current month and generates a report with the loader names, their corresponding misload counts, and frequencies.
 
 The code consists of the following functions:
 
